@@ -1,9 +1,9 @@
 
-# Ex.No:2 Develop an application that uses Font Size using Android Studio.
+# Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
 
 
 ## AIM:
-To develop an application that uses Font Size using android studio.
+To develop an application that uses GUI Components with Fonts and Colors using android studio.
 
 ## EQUIPMENTS REQUIRED:
 
@@ -33,7 +33,9 @@ Step 3: Design the graphical layout with a text view and two command buttons.
 
 Step 4: Run the application.
 
-Step 5:On pressing the change font size button, the size of the font gets altered.       
+Step 5:On pressing the change font size button, the size of the font gets altered.
+
+Step 6: On pressing the Color button, the color of the text altered.
        
 Step 6:Close the Android project. 
 
@@ -60,4 +62,4 @@ RegisterNumber:
 
 
 ## Result:
-Thus, the program for android application, Font Size was executed successfully using Android Studio.
+Thus, the program for android application, Font Size and color was executed successfully using Android Studio.
