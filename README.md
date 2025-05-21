@@ -2,9 +2,9 @@
 ## Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
 Program to Develop an application that uses Font Size using Android Studio .
 
-Developed by: JANARTHANAN S
+Developed by: YUVARAJ B
 
-RegisterNumber:  212222040058
+RegisterNumber:  212222040186
 
 
 
